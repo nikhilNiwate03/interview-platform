@@ -13,8 +13,8 @@ function Navbar() {
           href="/"
           className="flex items-center gap-2 font-semibold text-2xl mr-6 font-mono hover:opacity-80 transition-opacity"
         >
-          <CodeIcon className="size-8 text-white" />
-          <span className="bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent">
+          <CodeIcon className="size-8 text-blue-600" />
+          <span className="bg-gradient-to-r from-blue-600 to-blue-200 bg-clip-text text-transparent">
             VideoSync
           </span>
         </Link>
